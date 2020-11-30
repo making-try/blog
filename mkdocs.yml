@@ -1,0 +1,22 @@
+site_name: trymaking site
+theme:
+  name: material
+  language: ja
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/trymaking
+      name: trymaking on twitter
+  generator: false
+copyright: Copyright &copy; trymaking
+nav:
+  - ホーム: index.md
+  - 1. trainingを始める:
+    - 1.1. Hiit: training/index.md
+  - 2. programing:
+    - 2.1. buttercms始めました: buttercms/index.md
+    - 2.2. buttercms止めました: buttercms-end/index.md
+    - 2.3. mentaのススメ: menta/index.md
+  - 3. Life Hack:
+    - 3.1. youtubepremium: youtubepremium/index.md
+    - 3.2. カウントフリー: countfree-end/index.md
